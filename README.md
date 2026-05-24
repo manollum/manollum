@@ -1,16 +1,18 @@
 👋 Hola, soy Manuel Villaverde
 
-Soy desarrollador de software con foco en el ecosistema **.NET** y bases de datos relacionales. Me formé en la **UTN** y me apasiona construir sistemas que resuelvan problemas reales de manera organizada y eficiente.
+Soy desarrollador de software con foco en el ecosistema **.NET** y bases de datos relacionales. Me formé en la **UTN** y me sigo formando por mi cuenta como autodidacta, soy muy disciplado con mi formación y mi objetivo es poder sumar mi granito de arena para que el mundo sea un lugar mejor con esta poderosísima herramienta que es la programación. Quizá suene un poco ambicioso, pero es una linda ambición.
+
+Acá intento subir código y repos. En mi Linkedin también subo updates de mis avances. Espero seguir subiendo dichos avances toda la vida, porque esto no se acaba nunca y cada vez me atrae más. Terminar un proyecto y poder hacer un deploy para compartir no tiene nombre! 
 
 ---
 
 ## 🛠️ Tecnologías principales
 
 - **Lenguajes:** C#, C++, JavaScript
-- **Backend:** .NET / ASP.NET, WebForms
-- **Bases de datos:** SQL Server
-- **Conceptos:** Programación orientada a objetos (POO), manejo de archivos, arquitectura en capas
-- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** .NET 8, 9 / ASP.NET, WebForms, MVC, LINQ.
+- **Bases de datos:** SQL Server, Entity Framework Core.
+- **Conceptos:** Programación orientada a objetos (POO), arquitectura en capas, inyección de dependencias, CRUD, migraciones con EF, deploy en entornos de hosting.
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap.
 
 ---
 
